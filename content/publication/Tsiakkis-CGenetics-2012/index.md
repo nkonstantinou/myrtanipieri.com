@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Genotype--phenotype correlation in X-linked Alport syndrome patients carrying missense mutations in the collagenous domain of COL4A5"
-authors: [Tsiakkis D, Pieri M, Koupepidou P, Demosthenous P, Panayidou K, Deltas C]
+authors: [Tsiakkis Demetris, Pieri Myrtani, Koupepidou Panayiota, Demosthenous Panayiota, Panayidou Klea, Deltas Constantinos]
 date: 2012-06-26T17:27:22+03:00
 doi: "10.1111/j.1399-0004.2012.01849.x"
 

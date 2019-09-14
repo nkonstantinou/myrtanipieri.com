@@ -18,21 +18,23 @@ organizations:
   url: "https://www.unic.ac.cy/pieri-myrtani/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on Gastrointestinal track physiology and, in particular, the role of specific ingested micromolecules in tumorigenesis.
+bio: My research focuses on Gastrointestinal tract physiology and, in particular, the role of specific ingested micromolecules in tumorigenesis.
 
 interests:
-- Human Anatomy and Physiology
-- Gastrointestinal track physiology
+- Nutrient transport
+- microRNAs
+- Unfolded Protein Response Pathway (UPR)
+- Collagen IV Nephropathies
 
 education:
   courses:
   - course: PhD in Human Anatomy and Physiology
     institution: University of Oxford, UK
     year: 2007
-  - course: Science Entrepreneurship diploma
-    institution: Said Business School, University of Oxford, UK
-    year: 2007
-  - course: BSc in Biology
+#  - course: MSc in Cognitive/Developmental/Educational Psychology
+#    institution: University of Cyprus
+#    year: 2007
+  - course: BA in Biology
     institution: University of Patras, Greece
     year: 2003
 
@@ -50,9 +52,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=qycv42cAAAAJ&hl=en&oi=ao
-- icon: #github
-  icon_pack: #fab
-  link: #https://github.com/nkonstantinou
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/nkonstantinou
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,5 +70,5 @@ user_groups:
 - Researcher
 ---
 
-I direct the `Pieri Lab` at the Department of Life and Health Sciences, University of Nicosia, based in Nicosia, Cyprus.
-My lab’s research is focused on `gastrointestinal physiology` and `nutrient transport` in various physiological and pathophysiological conditions. We are also interested in inherited kidney disorders and the role of the `Unfolded Protein Response (UPR)` in human pathology. We have incorporated a repertoire of in vitro and in vivo models to address our research questions. Cell culture, migration, proliferation, wound healing assays, in vitro digestion models, animal models of disease and more. We are also interested in `Science outreach and Education` related to Human Anatomy and Physiology.
+I direct the Pieri Lab at the Department of Life and Health Sciences, University of Nicosia, based in Nicosia, Cyprus.
+My lab’s research is focused on gastrointestinal physiology and nutrient transport in various physiological and pathophysiological conditions. We are also interested in inherited kidney disorders and the role of the Unfolded Protein Response (UPR) in human pathology. We have incorporated a repertoire of in vitro and in vivo models to address our research questions. Cell culture, migration, proliferation, wound healing assays, in vitro digestion models, animal models of disease and more. We are also interested in Science outreach and Education related to Human Anatomy and Physiology.

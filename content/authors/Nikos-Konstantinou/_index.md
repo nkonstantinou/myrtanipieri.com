@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Phivos Phylactou
+name: Nikos Konstantinou
 
 # Username (this should match the folder name)
 authors:
-- Phivos-Phylactou
+- Nikos-Konstantinou
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Assistant Professor of Cognitive Neuroscience
 
 # Organizations/Affiliations
 organizations:
@@ -18,10 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My background in psychology made me curious about the neuroscientific basis of cognitive processes. Therefore, I am keen on investigating healthy individuals to discover basic neuroscientific evidence about memory and perception, with the use of non-invasive brain stimulation techniques, brain imaging, and behavioural experiments.
+bio: "My research interests include attention, working memory, and perception."
 
 interests:
-- Memory
+- Attention
+- Working Memory
 - Perception
 - Neuroimaging (MRI)
 - Brain Stimulation (TMS/tDCS)
@@ -45,16 +46,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:phivph@gmail.com
+  link: mailto:nikos.konstantinou@cut.ac.cy
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/phivph
+  link: https://twitter.com/n_konstantinou
 - icon: google-scholar
   icon_pack: ai
-  link: # https://scholar.google.com/citations?user=0L0T21wAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=0L0T21wAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: # https://github.com/nkonstantinou
+  link: https://github.com/nkonstantinou
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -67,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD students
----
+- Collaborators
 
-My background in psychology made me curious about the neuroscientific basis of cognitive processes. Therefore, I am keen on investigating healthy individuals to discover basic neuroscientific evidence about memory and perception, with the use of non-invasive brain stimulation techniques, brain imaging, and behavioural experiments.
+---
+I direct the `Brain and Cognitive Science (BaCS)` lab at the `Department of Rehabilitation Sciences, Cyprus University of Technology (CUT)`, based in Limassol, Cyprus. BaCS' research is focused on attention, working memory and perception in healthy people and patients with neurological and psychiatric disorders. We employ behavioural experimental methods together with neuroimaging (MRI) and non-invasive brain stimulation (TMS, tDCS) methods.

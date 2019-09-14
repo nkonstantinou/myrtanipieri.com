@@ -26,14 +26,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Molecular Biology and Genetics
-    institution: University of Oxford
+  - course: PhD in Human Anatomy and Physiology
+    institution: University of Oxford, UK
     year: 2007
   - course: Science Entrepreneurship diploma
-    institution: Said Business School, University of Oxford
+    institution: Said Business School, University of Oxford, UK
     year: 2007
   - course: BSc in Biology
-    institution: Patras University
+    institution: University of Patras, Greece
     year: 2003
 
 # Social/Academic Networking
@@ -68,4 +68,5 @@ user_groups:
 - Researcher
 ---
 
-I direct the `Brain and Cognitive Science (BaCS)` lab at the `Department of Rehabilitation Sciences, Cyprus University of Technology (CUT)`, based in Limassol, Cyprus. BaCS' research is focused on attention, working memory and perception in healthy people and patients with neurological and psychiatric disorders. We employ behavioural experimental methods together with neuroimaging (MRI) and non-invasive brain stimulation (TMS, tDCS) methods.
+I direct the `Pieri Lab` at the Department of Life and Health Sciences, University of Nicosia, based in Nicosia, Cyprus.
+My lab’s research is focused on `gastrointestinal physiology` and `nutrient transport` in various physiological and pathophysiological conditions. We are also interested in inherited kidney disorders and the role of the `Unfolded Protein Response (UPR)` in human pathology. We have incorporated a repertoire of in vitro and in vivo models to address our research questions. Cell culture, migration, proliferation, wound healing assays, in vitro digestion models, animal models of disease and more. We are also interested in `Science outreach and Education` related to Human Anatomy and Physiology.

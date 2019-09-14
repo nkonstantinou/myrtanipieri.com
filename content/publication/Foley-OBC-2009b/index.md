@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Targeting ketone drugs towards transport by the intestinal peptide transporter, PepT1"
-authors: [Foley, David and Bailey, Patrick and Pieri, Myrtani and Meredith, David]
+authors: [Foley David, Bailey Patrick, Pieri Myrtani, Meredith David]
 date: 2009-01-05T17:27:22+03:00
 doi: "10.1039/b818606e"
 

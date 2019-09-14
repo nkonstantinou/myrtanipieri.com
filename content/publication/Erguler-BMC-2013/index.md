@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A mathematical model of the unfolded protein stress response reveals the decision mechanism for recovery, adaptation and apoptosis"
-authors: [Erguler, Kamil and Pieri, Myrtani and Deltas, Constantinos]
+authors: [Erguler Kamil, Pieri Myrtani, Deltas Constantinos]
 date: 2013-07-16T17:27:22+03:00
 doi: "10.1186/1752-0509-7-16"
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "An energy supply network of nutrient absorption coordinated by calcium and T1R taste receptors in rat small intestine"
-authors: [Mace, Oliver J and Lister, Norma and Morgan, Emma and Shepherd, Emma and Affleck, Julie and Helliwell, Philip and Bronk, John R and Kellett, George L and Meredith, David and Boyd, Richard and others]
+authors: [Mace Oliver J, Lister Norma, Morgan Emma, Shepherd Emma,Affleck Julie, Helliwell Philip, Bronk John R, Kellett George L, Meredith David, Boyd Richard, and others]
 date: 2011-07-01T17:27:22+03:00
 doi: "10.1113/jphysiol.2008.159616"
 

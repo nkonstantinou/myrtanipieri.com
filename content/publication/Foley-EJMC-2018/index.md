@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Thiodipeptides targeting the intestinal oligopeptide transporter as a general approach to improving oral drug delivery"
-authors: [Foley, David W and Pathak, Ravindra B and Phillips, Theresa R and Wilson, Gayle L and Bailey, Patrick D and Pieri, Myrtani and Senan, Anish and Meredith, David]
+authors: [Foley David W, Pathak Ravindra B, Phillips Theresa R, Wilson Gayle L, Bailey Patrick D, Pieri Myrtani, Senan Anish, Meredith David]
 date: 2018-06-28T17:27:22+03:00
 doi: "10.1016/j.ejmech.2018.06.064"
 

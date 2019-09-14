@@ -3,7 +3,7 @@
 
 title: "The apical (hPepT1) and basolateral peptide transport systems of Caco-2 cells are regulated by AMP-activated protein kinase
 "
-authors: [Pieri, Myrtani and Christian, Helen C and Wilkins, Robert J and Boyd, CAR and Meredith, David]
+authors: [Pieri Myrtani, Christian Helen C, Wilkins Robert J, Boyd CAR, Meredith David]
 date: 2010-04-29T17:27:22+03:00
 doi: "10.18632/oncoscience.13"
 

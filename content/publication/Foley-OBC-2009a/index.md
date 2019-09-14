@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The in vitro transport of model thiodipeptide prodrugs designed to target the intestinal oligopeptide transporter, PepT1"
-authors: [Foley, David and Pieri, Myrtani and Pettecrew, Rachel and Price, Richard and Miles, Stephen and Lam, Ho Kam and Bailey, Patrick and Meredith, David]
+authors: [Foley David, Pieri Myrtani, Pettecrew Rachel, Price Richard, Miles Stephen, Lam Ho Kam, Bailey Patrick, Meredith David]
 date: 2009-07-07T17:27:22+03:00
 doi: "10.1039/b909221h"
 

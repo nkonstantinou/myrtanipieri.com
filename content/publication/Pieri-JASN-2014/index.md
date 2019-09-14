@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Evidence for Activation of the Unfolded Protein Response in Collagen IV Nephropathies"
-authors: [Pieri, Myrtani and Stefanou, Charalambos and Zaravinos, Apostolos and Erguler, Kamil and Stylianou, Kostas and Lapathitis, George and Karaiskos, Christos and Savva, Isavella and Paraskeva, Revekka and Dweep, Harsh and others]
+authors: [Pieri Myrtani, Stefanou Charalambos, Zaravinos Apostolos, Erguler Kamil, Stylianou Kostas, Lapathitis George, Karaiskos Christos, Savva Isavella, Paraskeva Revekka, Dweep Harsh, and others]
 date: 2014-07-01T17:27:22+03:00
 doi: "10.1681/ASN.2012121217"
 

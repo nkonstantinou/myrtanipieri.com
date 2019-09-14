@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Co-Inheritance of Functional Podocin Variants with Heterozygous Collagen IV Mutations Predisposes to Renal Failure"
-authors: [Stefanou, Charalambos and Pieri, Myrtani and Savva, Isavella and Georgiou, Georgia and Pierides, Alkis and Voskarides, Konstantinos and Deltas, Constantinos]
+authors: [Stefanou Charalambos, Pieri Myrtani, Savva Isavella, Georgiou Georgia, Pierides Alkis, Voskarides Konstantinos, Deltas Constantinos]
 date: 2015-06-26T17:27:22+03:00
 doi: "10.1159/000432406"
 

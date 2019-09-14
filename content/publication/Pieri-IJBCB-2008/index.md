@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Site-directed mutagenesis of Arginine282 suggests how protons and peptides are co-transported by rabbit PepT1"
-authors: [Pieri, Myrtani and Hall, Dashiell and Price, Richard and Bailey, Patrick and Meredith, David]
+authors: [Pieri Myrtani, Hall Dashiell, Price Richard, Bailey Patrick, Meredith David]
 date: 2007-10-09T17:27:22+03:00
 doi: "10.1016/j.biocel.2007.10.010"
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Frequency of COL4A3/COL4A4 Mutations amongst Families Segregating Glomerular Microscopic Hematuria and Evidence for Activation of the Unfolded Protein Response. Focal and Segmental Glomerulosclerosis Is a Frequent Development during Ageing"
-authors: [Papazachariou, Louiza and Demosthenous, Panayiota and Pieri, Myrtani and Papagregoriou, Gregory and Savva, Isavella and Stavrou, Christoforos and Zavros, Michael and Athanasiou, Yiannis and Ioannou, Kyriakos and Patsias, Charalambos and others]
+authors: [Papazachariou Louiza, Demosthenous Panayiota, Pieri Myrtani, Papagregoriou Gregory, Savva Isavella, Stavrou Christoforos,Zavros Michael, Athanasiou Yiannis, Ioannou Kyriakos, Patsias Charalambos, and others]
 date: 2014-12-01T17:27:22+03:00
 doi: "10.1371/journal.pone.0115015"
 

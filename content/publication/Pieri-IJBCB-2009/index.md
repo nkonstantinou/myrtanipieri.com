@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The transmembrane tyrosines Y56, Y91 and Y167 play important roles in determining the affinity and transport rate of the rabbit proton-coupled peptide transporter PepT1"
-authors: [Pieri, Myrtani and Gan, Christine and Bailey, Patrick and Meredith, David]
+authors: [Pieri Myrtani, Gan Christine, Bailey Patrick, Meredith David]
 date: 2009-04-15T17:27:22+03:00
 doi: "10.1016/j.biocel.2009.04.014"
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Altered metabolic pathways in clear cell renal cell carcinoma: A meta-analysis and validation study focused on the deregulated genes and their associated networks"
-authors: [Zaravinos, Apostolos and Pieri, Myrtani and Mourmouras, Nikos and Anastasiadou, Natassa and Zouvani, Ioanna and Delakas, Dimitris and Deltas, Constantinos]
+authors: [Zaravinos Apostolos, Pieri Myrtani, Mourmouras Nikos, Anastasiadou Natassa, Zouvani Ioanna, Delakas Dimitris, Deltas Constantinos]
 date: 2014-01-03T17:27:22+03:00
 doi: "10.18632/oncoscience.13"
 

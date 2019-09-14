@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A functional variant in NEPH3 gene confers high risk of renal failure in primary hematuric glomerulopathies. Evidence for predisposition to microalbuminuria in the general population"
-authors: [Voskarides, Konstantinos and Stefanou, Charalambos and Pieri, Myrtani and Demosthenous, Panayiota and Felekkis, Kyriakos and Arsali, Maria and Athanasiou, Yiannis and Xydakis, Dimitris and Stylianou, Kostas and Daphnis, Eugenios and others]
+authors: [Voskarides Konstantinos, Stefanou Charalambos, Pieri Myrtani, Demosthenous Panayiota, Felekkis Kyriakos, Arsali Maria, Athanasiou Yiannis, Xydakis Dimitris, Stylianou Kostas, Daphnis Eugenios, and others]
 date: 2017-03-23T17:27:22+03:00
 doi: "10.1371/journal.pone.0174274"
 

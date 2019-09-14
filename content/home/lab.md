@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "## **Pieri Lab**"
+title = "**Pieri Lab**"
 subtitle = "We are housed at the Department of Life and Health Sciences, Human Biology Program, of the University of Nicosia, Cyprus"
 
 [design]
@@ -46,5 +46,3 @@ subtitle = "We are housed at the Department of Life and Health Sciences, Human B
  # CSS class.
  css_class = ""
 +++
-
-# {{< figure library="true" src="BACS_brain4_small.png" title="" numbered="true" lightbox="true" >}}

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nikos Konstantinou
+name: Myrtani Pieri
 
 # Username (this should match the folder name)
 authors:
@@ -10,34 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Cognitive Neuroscience
+role: Assistant Professor of Human Anatomy and Physiology
 
 # Organizations/Affiliations
 organizations:
-- name: Cyprus University of Technology
-  url: "https://www.cut.ac.cy/faculties/hsc/reh/staff/Διδακτικό+και+Ερευνητικό+Προσωπικό+/nikoskonstantinou/?languageId=1"
+- name: University of Nicosia
+  url: "https://www.unic.ac.cy/pieri-myrtani/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include attention, working memory, and perception.
+bio: My research interests focus on Gastrointestinal track physiology and, in particular, the role of specific ingested micromolecules in tumorigenesis.
 
 interests:
-- Attention
-- Working Memory
-- Perception
-- Neuroimaging (MRI)
-- Brain Stimulation (TMS/tDCS)
+- Human Anatomy and Physiology
+- Gastrointestinal track physiology
 
 education:
   courses:
-  - course: PhD in Cognitive Neuroscience
-    institution: University College London
-    year: 2011
-  - course: MSc in Cognitive/Developmental/Educational Psychology
-    institution: University of Cyprus
+  - course: PhD in Molecular Biology and Genetics
+    institution: University of Oxford
     year: 2007
-  - course: BA in Psychology
-    institution: Louisiana State University
-    year: 2002
+  - course: Science Entrepreneurship diploma
+    institution: Said Business School, University of Oxford
+    year: 2007
+  - course: BSc in Biology
+    institution: Patras University
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,13 +46,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:nikos.konstantinou@cut.ac.cy".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/n_konstantinou
+  link: https://twitter.com/myrtani
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=0L0T21wAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/nkonstantinou
+  link: https://scholar.google.com/citations?user=qycv42cAAAAJ&hl=en&oi=ao
+- icon: #github
+  icon_pack: #fab
+  link: #https://github.com/nkonstantinou
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

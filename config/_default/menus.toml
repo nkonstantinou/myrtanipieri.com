@@ -24,8 +24,8 @@
   weight = 70
 
 [[main]]
-  name = "News"
-  url = "#posts"
+  name = "Science Communication"
+  url = "#talks"
   weight = 80
 
 [[main]]

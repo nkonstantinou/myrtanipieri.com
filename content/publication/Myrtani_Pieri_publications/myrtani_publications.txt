@@ -1,0 +1,220 @@
+@article{mace2009energy,
+  title={An energy supply network of nutrient absorption coordinated by calcium and T1R taste receptors in rat small intestine},
+  author={Mace, Oliver J and Lister, Norma and Morgan, Emma and Shepherd, Emma and Affleck, Julie and Helliwell, Philip and Bronk, John R and Kellett, George L and Meredith, David and Boyd, Richard and others},
+  journal={The Journal of physiology},
+  volume={587},
+  number={1},
+  pages={195--210},
+  year={2009},
+  publisher={Blackwell Publishing Ltd Oxford, UK}
+}
+
+@article{pieri2010apical,
+  title={The apical (hPepT1) and basolateral peptide transport systems of Caco-2 cells are regulated by AMP-activated protein kinase},
+  author={Pieri, Myrtani and Christian, Helen C and Wilkins, Robert J and Boyd, CAR and Meredith, David},
+  journal={American Journal of Physiology-Gastrointestinal and Liver Physiology},
+  volume={299},
+  number={1},
+  pages={G136--G143},
+  year={2010},
+  publisher={American Physiological Society Bethesda, MD}
+}
+
+@article{pieri2008site,
+  title={Site-directed mutagenesis of Arginine282 suggests how protons and peptides are co-transported by rabbit PepT1},
+  author={Pieri, Myrtani and Hall, Dashiell and Price, Richard and Bailey, Patrick and Meredith, David},
+  journal={The international journal of biochemistry \& cell biology},
+  volume={40},
+  number={4},
+  pages={721--730},
+  year={2008},
+  publisher={Pergamon}
+}
+
+@article{pieri2009transmembrane,
+  title={The transmembrane tyrosines Y56, Y91 and Y167 play important roles in determining the affinity and transport rate of the rabbit proton-coupled peptide transporter PepT1},
+  author={Pieri, Myrtani and Gan, Christine and Bailey, Patrick and Meredith, David},
+  journal={The international journal of biochemistry \& cell biology},
+  volume={41},
+  number={11},
+  pages={2204--2213},
+  year={2009},
+  publisher={Pergamon}
+}
+
+@article{foley2009targeting,
+  title={Targeting ketone drugs towards transport by the intestinal peptide transporter, PepT1},
+  author={Foley, David and Bailey, Patrick and Pieri, Myrtani and Meredith, David},
+  journal={Organic \& biomolecular chemistry},
+  volume={7},
+  number={6},
+  pages={1064--1067},
+  year={2009},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{foley2009vitro,
+  title={The in vitro transport of model thiodipeptide prodrugs designed to target the intestinal oligopeptide transporter, PepT1},
+  author={Foley, David and Pieri, Myrtani and Pettecrew, Rachel and Price, Richard and Miles, Stephen and Lam, Ho Kam and Bailey, Patrick and Meredith, David},
+  journal={Organic \& biomolecular chemistry},
+  volume={7},
+  number={18},
+  pages={3652--3656},
+  year={2009},
+  publisher={Royal Society of Chemistry}
+}
+
+
+@phdthesis{pieri2006structure,
+  title={Structure-function and regualtion studies on the mammalian peptide transporter, PepT1},
+  author={Pieri, Myrtani},
+  year={2006},
+  school={University of Oxford}
+}
+
+@article{helliwellphysiology,
+  title={Physiology in Press; published online on November 10, 2008 as 10.1113/jphysiol. 2008.159616},
+  author={Helliwell, John R and Pieri, Myrtani},
+  publisher={Physiological Soc}
+}
+
+@article{erguler2013mathematical,
+  title={A mathematical model of the unfolded protein stress response reveals the decision mechanism for recovery, adaptation and apoptosis},
+  author={Erguler, Kamil and Pieri, Myrtani and Deltas, Constantinos},
+  journal={BMC systems biology},
+  volume={7},
+  number={1},
+  pages={16},
+  year={2013},
+  publisher={BioMed Central}
+}
+
+@article{tsiakkis2012genotype,
+  title={Genotype--phenotype correlation in X-linked Alport syndrome patients carrying missense mutations in the collagenous domain of COL4A5},
+  author={Tsiakkis, D and Pieri, M and Koupepidou, P and Demosthenous, P and Panayidou, K and Deltas, C},
+  journal={Clinical genetics},
+  volume={82},
+  number={3},
+  pages={297--299},
+  year={2012},
+  publisher={Blackwell Publishing Ltd Oxford, UK}
+}
+
+@article{zaravinos2014altered,
+  title={Altered metabolic pathways in clear cell renal cell carcinoma: A meta-analysis and validation study focused on the deregulated genes and their associated networks},
+  author={Zaravinos, Apostolos and Pieri, Myrtani and Mourmouras, Nikos and Anastasiadou, Natassa and Zouvani, Ioanna and Delakas, Dimitris and Deltas, Constantinos},
+  journal={Oncoscience},
+  volume={1},
+  number={2},
+  pages={117},
+  year={2014},
+  publisher={Impact Journals, LLC}
+}
+
+@article{pieri2014evidence,
+  title={Evidence for activation of the unfolded protein response in collagen IV nephropathies},
+  author={Pieri, Myrtani and Stefanou, Charalambos and Zaravinos, Apostolos and Erguler, Kamil and Stylianou, Kostas and Lapathitis, George and Karaiskos, Christos and Savva, Isavella and Paraskeva, Revekka and Dweep, Harsh and others},
+  journal={Journal of the American Society of Nephrology},
+  volume={25},
+  number={2},
+  pages={260--275},
+  year={2014},
+  publisher={American Society of Nephrology}
+}
+
+@article{pieriwindow,
+  title={A window for novel collagen IV nephropathy therapeutics?},
+  author={Pieri, Myrtani and Stefanou, Charalambos and Deltas, Constantinos}
+}
+
+@article{papazachariou2014frequency,
+  title={Frequency of COL4A3/COL4A4 mutations amongst families segregating glomerular microscopic hematuria and evidence for activation of the unfolded protein response. Focal and segmental glomerulosclerosis is a frequent development during ageing},
+  author={Papazachariou, Louiza and Demosthenous, Panayiota and Pieri, Myrtani and Papagregoriou, Gregory and Savva, Isavella and Stavrou, Christoforos and Zavros, Michael and Athanasiou, Yiannis and Ioannou, Kyriakos and Patsias, Charalambos and others},
+  journal={PloS one},
+  volume={9},
+  number={12},
+  pages={e115015},
+  year={2014},
+  publisher={Public Library of Science}
+}
+
+@article{stefanou2015co,
+  title={Co-inheritance of functional Podocin variants with heterozygous collagen IV mutations predisposes to renal failure},
+  author={Stefanou, Charalambos and Pieri, Myrtani and Savva, Isavella and Georgiou, Georgia and Pierides, Alkis and Voskarides, Konstantinos and Deltas, Constantinos},
+  journal={Nephron},
+  volume={130},
+  number={3},
+  pages={200--212},
+  year={2015},
+  publisher={Karger Publishers}
+}
+
+@inproceedings{savva2016novel,
+  title={A NOVEL KNOCKIN MOUSE MODEL FOR ALPORT SYNDROME},
+  author={Savva, Isavella and Stefanou, Charalampos and Pieri, Myrtani and Borza, Dorin B and Stylianou, Kostas and Lapathitis, George and Karaiskos, Christos and Papagregoriou, Gregoris and Deltas, Constantinos},
+  booktitle={NEPHROLOGY DIALYSIS TRANSPLANTATION},
+  volume={31},
+  pages={354--354},
+  year={2016},
+  organization={OXFORD UNIV PRESS GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND}
+}
+
+@article{voskarides2017functional,
+  title={A functional variant in NEPH3 gene confers high risk of renal failure in primary hematuric glomerulopathies. Evidence for predisposition to microalbuminuria in the general population},
+  author={Voskarides, Konstantinos and Stefanou, Charalambos and Pieri, Myrtani and Demosthenous, Panayiota and Felekkis, Kyriakos and Arsali, Maria and Athanasiou, Yiannis and Xydakis, Dimitris and Stylianou, Kostas and Daphnis, Eugenios and others},
+  journal={PloS one},
+  volume={12},
+  number={3},
+  pages={e0174274},
+  year={2017},
+  publisher={Public Library of Science}
+}
+
+@article{deltas2013genetic,
+  title={The genetic risk of kidney disease in type 2 diabetes},
+  author={Deltas, Constantinos and Pierides, Alkis and Voskarides, Konstantinos and Spetie, DN and Nadasdy, T and Nadasdy, G and Smith, HS and Bajwa, ZH and Heath, KE and Campos-Barros, A and others},
+  journal={Nephrology Dialysis Transplantation},
+  volume={28},
+  number={12},
+  pages={2946--2960},
+  year={2013},
+  publisher={Oxford University Press}
+}
+
+@article{foley2018thiodipeptides,
+  title={Thiodipeptides targeting the intestinal oligopeptide transporter as a general approach to improving oral drug delivery},
+  author={Foley, David W and Pathak, Ravindra B and Phillips, Theresa R and Wilson, Gayle L and Bailey, Patrick D and Pieri, Myrtani and Senan, Anish and Meredith, David},
+  journal={European journal of medicinal chemistry},
+  volume={156},
+  pages={180--189},
+  year={2018},
+  publisher={Elsevier Masson}
+}
+
+@article{pieri2010articles,
+  title={Articles in PresS. Am J Physiol Gastrointest Liver Physiol (April 29, 2010). doi: 10.1152/ajpgi. 00014.2010},
+  author={Pieri, M and Christian, HC and Wilkins, RJ and Boyd, CAR and Meredith, D},
+  year={2010}
+}
+
+@article{odiatis2019fp070,
+  title={FP070 PHENOTYPIC ANALYSIS OF TWO ALPORT SYNDROME MODEL MICE WITH A COL4A3 G1332E MUTATION},
+  author={Odiatis, Christoforos and Savva, Isavella and Pieri, Myrtani and Ioannou, Pavlos and Papagregoriou, Gregory and Makrides, Neoklis and Nikolaou, George and Petrou, Petros and Borza, Dorin Bogdan and Deltas, Constantinos},
+  journal={Nephrology Dialysis Transplantation},
+  volume={34},
+  number={Supplement\_1},
+  pages={gfz106--FP070},
+  year={2019},
+  publisher={Oxford University Press}
+}
+
+@article{foley2009vitro,
+  title={The in vitro transport of model thiodipeptide prodrugs designed to target the intestinal oligopeptide transporter, PepT1 (vol 7, pg 3652, 2009)},
+  author={Foley, David and Pieri, Myrtani and Pettecrew, Rachel and Price, Richard and Miles, Steven and Lam, Ho Kam and Bailey, Patrick and Meredith, David},
+  journal={ORGANIC \& BIOMOLECULAR CHEMISTRY},
+  volume={7},
+  number={24},
+  pages={5275--5276},
+  year={2009},
+  publisher={ROYAL SOC CHEMISTRY THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE~…}
+}

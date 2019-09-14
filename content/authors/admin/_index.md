@@ -70,5 +70,5 @@ user_groups:
 - Researcher
 ---
 
-I direct the Pieri Lab at the Department of Life and Health Sciences, University of Nicosia, based in Nicosia, Cyprus.
+Head of the Pieri Lab at the Department of Life and Health Sciences, University of Nicosia, based in Nicosia, Cyprus.
 My lab’s research is focused on gastrointestinal physiology and nutrient transport in various physiological and pathophysiological conditions. We are also interested in inherited kidney disorders and the role of the Unfolded Protein Response (UPR) in human pathology. We have incorporated a repertoire of in vitro and in vivo models to address our research questions. Cell culture, migration, proliferation, wound healing assays, in vitro digestion models, animal models of disease and more. We are also interested in Science outreach and Education related to Human Anatomy and Physiology.

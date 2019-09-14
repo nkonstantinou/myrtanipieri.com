@@ -6,7 +6,10 @@ active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 title = "Research"
-subtitle = "We study cognitive function in `healthy`, `neurological`, and `psychiatric` populations  using `behavioural experiments`, `neuroimaging` and `brain stimulation`"
+subtitle = "We study `digestion and nutrient transport` through the gastrointestinal tract in physiological and pathophysiological conditions using cell culture and animal models focusing on peptides and microRNAs
+We are also interested in `inherited kidney diseases` and the molecular mechanisms behind Collagen IV inherited nephropathies.
+Finally, we investigate the contribution of individual patient `genotype` and `biomarkers (microRNAs)` in the treatment of various pathologies
+"
 
 [content]
   # Page type to display. E.g. project.
@@ -21,21 +24,21 @@ subtitle = "We study cognitive function in `healthy`, `neurological`, and `psych
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-  name = "All"
-  tag = "*"
+  # [[content.filter_button]]
+  # name = "All"
+  # tag = "*"
   
-  [[content.filter_button]]
-  name = "Cognitive"
-  tag = "Cognitive"
+  # [[content.filter_button]]
+  # name = "Cognitive"
+  # tag = "Cognitive"
   
-  [[content.filter_button]]
-  name = "Neurological"
-  tag = "Neurological"
+  # [[content.filter_button]]
+  # name = "Neurological"
+ #  tag = "Neurological"
 
-  [[content.filter_button]]
-  name = "Psychiatric"
-  tag = "Psychiatric"
+ #  [[content.filter_button]]
+ #  name = "Psychiatric"
+ #  tag = "Psychiatric"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

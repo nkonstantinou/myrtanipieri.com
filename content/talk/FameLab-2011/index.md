@@ -5,7 +5,7 @@ title: "How deep do you think the love of a mother for her child is?"
 event: FameLab International - Cheltenham Science Festival
 event_url: https://www.cheltenhamfestivals.com/science/famelab/famelab-international-2/
 location:
-summary: "Watch Myrtani's FameLab International presentation at Cheltenham Science Festival 2011"
+summary: "Watch Myrtani's [FameLab International presentation](https://youtu.be/xzbKJyBNRAI) at Cheltenham Science Festival 2011"
 abstract: How deep do you think the love of a mother for her child is?
 
 # Talk start and end times.
@@ -21,15 +21,15 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image: 
-  caption: ""
+  caption: "FameLab 2011"
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -44,7 +44,7 @@ url_slides:
 
 url_code: 
 url_pdf:
-url_video: https://youtu.be/1X33oKndg7I
+url_video: https://youtu.be/xzbKJyBNRAI
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -60,3 +60,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{< youtube xzbKJyBNRAI >}}

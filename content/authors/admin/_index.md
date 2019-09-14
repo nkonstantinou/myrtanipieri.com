@@ -66,10 +66,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researcher
-
-design.background: 
-  # Text color (true=light or false=dark).
-  text_color_light = true
 ---
 
 I direct the `Brain and Cognitive Science (BaCS)` lab at the `Department of Rehabilitation Sciences, Cyprus University of Technology (CUT)`, based in Limassol, Cyprus. BaCS' research is focused on attention, working memory and perception in healthy people and patients with neurological and psychiatric disorders. We employ behavioural experimental methods together with neuroimaging (MRI) and non-invasive brain stimulation (TMS, tDCS) methods.

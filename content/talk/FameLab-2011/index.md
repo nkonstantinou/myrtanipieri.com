@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FameLab 2011"
+title: "How deep do you think the love of a mother for her child is?"
 event: FameLab International - Cheltenham Science Festival
 event_url: https://www.cheltenhamfestivals.com/science/famelab/famelab-international-2/
 location:
-summary:
-abstract:
+summary: "Watch Myrtani's FameLab International presentation at Cheltenham Science Festival 2011"
+abstract: How deep do you think the love of a mother for her child is?
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,8 +28,8 @@ featured: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image: 
   caption: ""
-  focal_point: "Center"
-  preview_only: true
+  focal_point: "Smart"
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

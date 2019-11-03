@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Elena Theori
+name: George Iliadis
 
 # Username (this should match the folder name)
 authors:
-- Elena-Theori
+- George-Iliadis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lab Assistant
+role: Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,10 +21,9 @@ organizations:
 bio: ""
 
 interests:
-- Bovine microRNAs
-- Colorectal cancer
-- Human Digestion
-
+- Ingested microRNAs
+- Inter-species interaction
+- Microbiome
 
 # education:
 #  courses:
@@ -44,17 +43,17 @@ interests:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fab
-  link: mailto:
+  icon_pack: fas
+  link: #mailto:maria.kambanaros@cut.ac.cy
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: #https://twitter.com/myrtani 
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: #https://scholar.google.com/citations?user=xOfYCTIAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: 
+  link: # https://github.com/nkonstantinou
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -67,10 +66,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Assistants
+- Students
 
 ---
-Elena holds a BA in Human Biology from the Department of Life and Health Sciences of the University of Nicosia. 
-Elena is carrying out a number of techniques in the lab such as: RT-qPCR, RT-PCR, Mammalian cell culture (CaCo2, SW-620 and SW480), Transfections, Cell functional assays (MTT, Scratch assay), DNA Cloning in Bacteria, Sequencing and she is also supervising undergraduate students enrolled in various projects in the lab. Research-wise, Elena is interested in microRNA biology and its effect in carcinogenesis. 
-Her poster presentation entitled: ‘Bovine specific miRNA, bta-mir154c, can survive human digestion and affect cancer-related processes in Colorectal Cancer cell lines’ during the 7th International Conference of the Cyprus Society of Human Genetics was awarded the Best Poster Award. 
-Elena is also very active in Science Communication and has participated in various outreach events such as the European Researcher’s Night and the 1st Mediterranean Science Festival.
+George is a 4th year undergraduate student in the Human Biology program at the Department of Life and Health Sciences of the University of Nicosia.
+George is involved in the MicroFOOD project and specifically he is studying the effect of ingested microRNAs on the human microbiome. George is carrying out a number of experiments to examine whether Cy3-labeled bta-miR154c miRNA is taken up E. coli when co-cultured.
+Data will be valuable on assessing whether ingested miRNAs mediate inter-species control of the human gut microbiota.
+This project is co-supervised by Drs Myrtani Pieri and Vicky Nicolaidou.
+Methods/Techniques: Bacterial culture, Confocal microscopy and Flow Cytometry

@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- 
 
 ---
 George is a 4th year undergraduate student in the Human Biology program at the Department of Life and Health Sciences of the University of Nicosia.

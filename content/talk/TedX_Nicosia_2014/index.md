@@ -6,7 +6,8 @@ event: TEDx Nicosia 2012
 event_url: 
 location:
 summary: "Watch Myrtani's talk at TEDx Nicosia 2012"
-abstract: Science provides answers to mysteries often even more magical than the mysteries themselves!
+abstract: Science provides answers to mysteries often even more magical than the mysteries themselves! Life has found a way to try and understand itself and the Universe: us, human beings! Our world is full of mysteries. We are a mystery. Science is the way to try to understand the mysteries of the world and our existence. So let's do it! 
+In this TEDxNicosia, Molecular Biologist Myrtani Pieri is urging us to delve deep into the molecular mechanisms that characterize our existence only to be faced with hidden beauty, remarkable magic, love and care at the molecular level. Science provides answers to mysteries often even more magical than the mysteries themselves! 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

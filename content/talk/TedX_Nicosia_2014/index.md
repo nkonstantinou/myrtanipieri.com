@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Magical Science"
+title: "The Magic of Science"
 event: TEDx Nicosia 2012
 event_url: 
 location:

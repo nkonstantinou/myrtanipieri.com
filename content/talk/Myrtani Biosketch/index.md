@@ -3,14 +3,17 @@
 
 title: Myrtani Pieri Short Biosketch
 event: 
-event_url: https://www.cheltenhamfestivals.com/science/famelab/famelab-international-2/
+event_url:
 location:
 summary: Myrtani Pieri holds a PhD in Molecular Biology and Genetics from the University of Oxford, UK and is currently an Assistant Professor at the University of Nicosia in Human Physiology. 
 In 2011 Myrtani won first prize in the international Science Communication competition “Famelab 2011”. Since then she is an active science communicator, has published popularized articles in the press and has given talks in Cyprus and abroad (TEDxNICOSIA 2012, Cyprus Open University, Athens Science Festival, HealthForward etc). 
 Myrtani is the co-founder of SciCo-Cyprus, an NGO, based in Cyprus, with the expertise in communicating scientific issues to the public aiming at bridging Science and Society
 In 2017, Myrtani was an invited Plenary speaker in the World Science Forum 2018 to talk about her work in Science Diplomacy, using Science as a source to overcome boarders and unite. In 2020, she was elected as member of the Global Young Academy (GYA) an international society of young scientists, aiming to give a voice to young scientists across the globe. 
 
-abstract:
+abstract: Myrtani Pieri holds a PhD in Molecular Biology and Genetics from the University of Oxford, UK and is currently an Assistant Professor at the University of Nicosia in Human Physiology. 
+In 2011 Myrtani won first prize in the international Science Communication competition “Famelab 2011”. Since then she is an active science communicator, has published popularized articles in the press and has given talks in Cyprus and abroad (TEDxNICOSIA 2012, Cyprus Open University, Athens Science Festival, HealthForward etc). 
+Myrtani is the co-founder of SciCo-Cyprus, an NGO, based in Cyprus, with the expertise in communicating scientific issues to the public aiming at bridging Science and Society
+In 2017, Myrtani was an invited Plenary speaker in the World Science Forum 2018 to talk about her work in Science Diplomacy, using Science as a source to overcome boarders and unite. In 2020, she was elected as member of the Global Young Academy (GYA) an international society of young scientists, aiming to give a voice to young scientists across the globe. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -48,7 +51,7 @@ url_slides:
 
 url_code: 
 url_pdf:
-url_video: https://youtu.be/xzbKJyBNRAI
+url_video: 
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -64,5 +67,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-{{< youtube xzbKJyBNRAI >}}

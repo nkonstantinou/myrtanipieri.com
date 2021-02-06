@@ -34,8 +34,8 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image: 
-  caption: "FameLab 2011"
-  focal_point: "Smart"
+  caption: 
+  focal_point: 
   preview_only: true
 
 # Custom links (optional).

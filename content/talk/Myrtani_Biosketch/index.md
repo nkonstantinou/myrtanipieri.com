@@ -10,7 +10,7 @@ abstract: Myrtani Pieri holds a PhD in Molecular Biology and Genetics from the U
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-09-14T18:04:49+03:00
+date: 2021-02-06T18:04:49+03:00
 # date_end: 2019-09-14T18:04:49+03:00
 all_day: false
 

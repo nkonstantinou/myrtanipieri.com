@@ -1,4 +1,4 @@
----
+<!--
 # Display name
 name: Maria Kambanaros
 
@@ -77,4 +77,4 @@ She is highly committed to developing tools and valid diagnostic measures for as
 
 Dr. Kambanaros also assumes the role of Clinical Assessor & Therapist for the Cyprus Acquisition Team, a cross-institutional research initiative in Cyprus (http://www.research.biolinguistics.eu/CAT). Here she is involved in all research projects carried out in the team. In addition, she was a Management Committee member of COST Action IS0804 on SLI in bilingual children (http://www.bi-sli.org) and is currently involved in working group 2 of COST Action 0812 on aphasia (http://www.cost.eu/domains_actions/isch/Actions/IS1208). 
 
-Dr. Kambanaros is active in disseminating her research findings in international peer-reviewed journals with high impact factors (http://kambanaros.biolinguistics.eu).
+Dr. Kambanaros is active in disseminating her research findings in international peer-reviewed journals with high impact factors (http://kambanaros.biolinguistics.eu).-->

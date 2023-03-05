@@ -21,7 +21,7 @@
 [[main]]
   name = "People"
   url = "#people"
-  weight = 70
+  weight = 200
 
 [[main]]
   name = "Science Communication"

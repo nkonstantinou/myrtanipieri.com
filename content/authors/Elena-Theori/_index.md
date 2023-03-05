@@ -1,29 +1,29 @@
 ---
 # Display name
-name: Elena Theori
+# name: Elena Theori
 
 # Username (this should match the folder name)
-authors:
-- Elena-Theori
+#authors:
+#- Elena-Theori
 
 # Is this the primary user of the site?
-superuser: false
+#superuser: false
 
 # Role/position
-role: Lab Assistant
+#role: Lab Assistant
 
 # Organizations/Affiliations
-organizations:
-- name: University of Nicosia
-  url: ""
+#organizations:
+#- name: University of Nicosia
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+#bio: ""
 
-interests:
-- Bovine microRNAs
-- Colorectal cancer
-- Human Digestion
+#interests:
+#- Bovine microRNAs
+#- Colorectal cancer
+#- Human Digestion
 
 
 # education:
@@ -69,8 +69,8 @@ email: ""
 user_groups:
 - Research Assistants
 
----
-Elena holds a BA in Human Biology from the Department of Life and Health Sciences of the University of Nicosia. 
-Elena is carrying out a number of techniques in the lab such as: RT-qPCR, RT-PCR, Mammalian cell culture (CaCo2, SW-620 and SW480), Transfections, Cell functional assays (MTT, Scratch assay), DNA Cloning in Bacteria, Sequencing and she is also supervising undergraduate students enrolled in various projects in the lab. Research-wise, Elena is interested in microRNA biology and its effect in carcinogenesis. 
-Her poster presentation entitled: ‘Bovine specific miRNA, bta-mir154c, can survive human digestion and affect cancer-related processes in Colorectal Cancer cell lines’ during the 7th International Conference of the Cyprus Society of Human Genetics was awarded the Best Poster Award. 
-Elena is also very active in Science Communication and has participated in various outreach events such as the European Researcher’s Night and the 1st Mediterranean Science Festival.
+#---
+#Elena holds a BA in Human Biology from the Department of Life and Health Sciences of the University of Nicosia. 
+#Elena is carrying out a number of techniques in the lab such as: RT-qPCR, RT-PCR, Mammalian cell culture (CaCo2, SW-620 and SW480), #Transfections, Cell functional assays (MTT, Scratch assay), DNA Cloning in Bacteria, Sequencing and she is also supervising #undergraduate students enrolled in various projects in the lab. Research-wise, Elena is interested in microRNA biology and its effect #in carcinogenesis. 
+#Her poster presentation entitled: ‘Bovine specific miRNA, bta-mir154c, can survive human digestion and affect cancer-related processes #in Colorectal Cancer cell lines’ during the 7th International Conference of the Cyprus Society of Human Genetics was awarded the Best #Poster Award. 
+#Elena is also very active in Science Communication and has participated in various outreach events such as the European Researcher’s #Night and the 1st Mediterranean Science Festival.

@@ -34,7 +34,7 @@ education:
 #  - course: MSc in Cognitive/Developmental/Educational Psychology
 #    institution: University of Cyprus
 #    year: 2007
-  - course: BA in Biology
+  - course: BSc in Biology
     institution: University of Patras, Greece
     year: 2003
 

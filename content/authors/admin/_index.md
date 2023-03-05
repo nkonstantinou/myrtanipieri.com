@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Human Anatomy and Physiology
+role: Associate Professor of Human Anatomy and Physiology
 
 # Organizations/Affiliations
 organizations:

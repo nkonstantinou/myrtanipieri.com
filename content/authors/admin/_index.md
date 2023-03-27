@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Human Anatomy and Physiology
+role: Associate Professor, Physiology
 
 # Organizations/Affiliations
 organizations:
@@ -71,4 +71,4 @@ user_groups:
 ---
 
 
-My main research is focused on gastrointestinal physiology and nutrient transport in various physiological and pathophysiological conditions. Together with my team and collaborators, we are also interested in inherited kidney disorders and the role of the Unfolded Protein Response (UPR) in human pathology. We have incorporated a repertoire of in vitro and in vivo models to address our research questions such as cell culture, migration, proliferation, wound healing assays, in vitro digestion models, animal models of disease and more. Myrtani is also interested in Science Outreach and Education related to Human Anatomy and Physiology. Dr Pieri is also a member of the [`Global Young Academy (GYA)`](https://globalyoungacademy.net/), an international society of young scientists, aiming to give a voice to young scientists across the globe.
+My main research is focused on gastrointestinal physiology and nutrient transport in various physiological and pathophysiological conditions. Together with my team and collaborators, we are also interested in inherited kidney disorders and the role of the Unfolded Protein Response (UPR) in human pathology. We have incorporated a repertoire of in vitro and in vivo models to address our research questions such as cell culture, migration, proliferation, wound healing assays, in vitro digestion models, animal models of disease and more. I am also interested in Science Outreach and Education related to Human Anatomy and Physiology. Since 2020, I am also a member of the [`Global Young Academy (GYA)`](https://globalyoungacademy.net/), an international society of young scientists, aiming to give a voice to young scientists across the globe.

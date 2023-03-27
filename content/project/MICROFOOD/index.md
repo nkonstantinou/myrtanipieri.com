@@ -36,4 +36,5 @@ Additionally, since functional miRNAs such as bta-miR-154c are found to reach th
 Relevant publication
 
 Pieri, M., Theori, E., Dweep, H., Flourentzou, M., Kalampalika, F., Maniori, M.A., Papagregoriou, G., Papaneophytou, C. and Felekkis, K., 2022. A bovine miRNA, bta‐miR‐154c, withstands in vitro human digestion but does not affect cell viability of colorectal human cell lines after transfection. FEBS Open bio, 12(5), pp.925-936.
+
 Link ['here'](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/2211-5463.13402)

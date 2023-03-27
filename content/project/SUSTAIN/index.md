@@ -29,7 +29,7 @@ image:
 # slides: ""
 ---
 
-SUSTAIN, an Erasmus+ network 
+'SUSTAIN, an Erasmus+ network'
 SUSTAIN is an Erasmus+ project developing Citizen Science methodologies. The project will spark engagement and create new tools for teachers and students who study sustainable landscapes and bird migration. https://www.sustainablelandscapes.eu/
 
 The SUSTAIN network has been awarded a EUR 449,900 grant by Erasmus+, the EU programme for education, training, youth and sport. The network will be coordinated by Science LinX, the science centre of the University of Groningen (UG) Faculty of Science and Engineering with the University of Nicosia being a partner. SUSTAIN aims to engage pupils and their families in research projects – what is known as citizen science on aspects of sustainability. The 12 partners will develop e-learning modules on ‘sustainable landscapes’ and research in Spain, Cyprus and the Netherlands, linking learning inside and outside the classroom.

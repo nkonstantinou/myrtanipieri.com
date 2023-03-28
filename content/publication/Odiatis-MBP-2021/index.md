@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A glycine substitution in the collagenous domain of Col4a3 in mice recapitulates late onset Alport syndrome"
-authors: [Christoforos Odiatis, Isavella Savva, Myrtani Pieri, Pavlos Ioannou, Petros Petrou, Gregory Papagregoriou, Kyriaki Antoniadou, Neoklis Makrides, Charalambos Stefanou, Danica Galešić Ljubanović, Georgios Nikolaou, Dorin-Bogdan Borza, Kostas Stylianou, Oliver Gross, Constantinos DeltaS]
+authors: [Christoforos Odiatis, Isavella Savva, Myrtani Pieri, Pavlos Ioannou, Petros Petrou, Gregory Papagregoriou, Kyriaki Antoniadou, Constantinos Deltas, and others]
 date: 2023-03-26T16:30:00+00:00
 doi: "10.1016/j.mbplus.2020.100053"
 

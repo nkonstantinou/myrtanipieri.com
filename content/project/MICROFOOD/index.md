@@ -1,6 +1,6 @@
 ---
 title: MICROFOOD
-summary: Bovine XenomiRs as a novel potential mechanism for Colorectal Cancer (CRC) initiation and progression 
+summary: Bovine `XenomiRs` as a novel potential mechanism for `Colorectal Cancer (CRC)` initiation and progression.
 tags: [""]
 date: "2019-09-14T00:00:00Z"
 

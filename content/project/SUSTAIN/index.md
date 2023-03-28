@@ -1,6 +1,6 @@
 ---
 title: SUSTAIN
-summary: Erasmus+ project developing Citizen Science methodologies
+summary: Erasmus+ project developing `Citizen Science`methodologies
 tags: [""]
 date: "2019-08-12T00:00:00Z"
 

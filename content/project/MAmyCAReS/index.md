@@ -39,5 +39,9 @@ The main objectives of the **<span style="color:orange;">MAmyCAReS proposal </sp
 
 3) examine the survival and neutralization capacity of vaccine-elicited and naturally induced Igs before and after digestion in a simulated human infant GI digestion system. Results from this study will help understand the physiology behind vaccine elicited immune response in lactating mothers and the extent to which these Igs can protect the breastfeeding infant or child.
 
+**Relevant publication**
+
+
+
 
 

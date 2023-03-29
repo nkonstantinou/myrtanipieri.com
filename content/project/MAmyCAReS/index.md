@@ -1,6 +1,6 @@
 ---
 title: MAmyCAReS
-summary: Erasmus+ project developing `Citizen Science`methodologies
+summary: `Milk Antibody` Characterization after `SARS-CoV-2` vaccination in lactating mothers 
 tags: [""]
 date: "2019-08-12T00:00:00Z"
 

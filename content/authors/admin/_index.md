@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Human Anatomy and Physiology
+role: Associate Professor, Physiology
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ education:
 #  - course: MSc in Cognitive/Developmental/Educational Psychology
 #    institution: University of Cyprus
 #    year: 2007
-  - course: BA in Biology
+  - course: BSc in Biology
     institution: University of Patras, Greece
     year: 2003
 
@@ -71,4 +71,6 @@ user_groups:
 ---
 
 
-The lab's main research is focused on gastrointestinal physiology and nutrient transport in various physiological and pathophysiological conditions. We are also interested in inherited kidney disorders and the role of the Unfolded Protein Response (UPR) in human pathology. We have incorporated a repertoire of in vitro and in vivo models to address our research questions such as cell culture, migration, proliferation, wound healing assays, in vitro digestion models, animal models of disease and more. We are also interested in Science outreach and Education related to Human Anatomy and Physiology. Dr Pieri is also a member of the [`Global Young Academy (GYA)`](https://globalyoungacademy.net/), an international society of young scientists, aiming to give a voice to young scientists across the globe.
+<div style="text-align:justify;">
+My main research is focused on gastrointestinal physiology and nutrient transport in various physiological and pathophysiological conditions. Together with my team and collaborators, we are also interested in inherited kidney disorders and the role of the Unfolded Protein Response (UPR) in human pathology. We have incorporated a repertoire of in vitro and in vivo models to address our research questions such as cell culture, migration, proliferation, wound healing assays, in vitro digestion models, animal models of disease and more. I am also interested in Science Outreach and Education related to Human Anatomy and Physiology. Since 2020, I am also a member of the <a href="https://globalyoungacademy.net/" style="color:blue;">Global Young Academy (GYA)</a>, an international society of young scientists, aiming to give a voice to young scientists across the globe.
+</div>

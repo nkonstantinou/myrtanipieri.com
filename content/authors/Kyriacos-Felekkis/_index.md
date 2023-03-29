@@ -1,4 +1,4 @@
----
+#---
 # Display name
 name: Kyriacos Felekkis
 
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor, Head of Department of Life and Health Sciences
+role: Professor, Dean of School of Life and Health Sciences
 
 # Organizations/Affiliations
 organizations:

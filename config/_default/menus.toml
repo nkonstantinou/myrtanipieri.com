@@ -18,10 +18,10 @@
   url = "#about"
   weight = 60
 
-[[main]]
-  name = "People"
-  url = "#people"
-  weight = 70
+#[[main]]
+#  name = "People"
+# url = "#people"
+#  weight = 70
 
 [[main]]
   name = "Science Communication"

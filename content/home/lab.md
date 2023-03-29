@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "**Pieri Lab**"
-subtitle = "We are housed at the Department of Life and Health Sciences, Human Biology Program, of the University of Nicosia, Cyprus"
+title = "**Myrtani Pieri**"
+subtitle = "Myrtani is an Associate Professor at the Department of Life Sciences, School of Life and Health Sciences, of the University of Nicosia, Cyprus"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

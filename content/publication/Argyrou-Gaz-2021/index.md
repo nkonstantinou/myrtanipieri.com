@@ -3,11 +3,11 @@
 
 title: "The NOS3-786 T/C polymorphism is associated with power performance in adolescent male basketball players"
 authors: [Marios ARGYROU, Myrtani PIERI, Lefkios PAIKOUSSIS, Skevi KYRIAKOU, Philippos C. PATSALIS, Kyriacos FELEKKIS, Marios HADJICHARALAMBOUS]
-date: 2022-07-01T17:27:22+03:00
+date: 2023-03-28T15:00:00
 doi: "10.23736/S0393-3660.19.04247-5"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-08-12T17:27:22+03:00
+publishDate: 2023-03-28T15:00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

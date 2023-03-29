@@ -1,6 +1,6 @@
 ---
 title: MAmyCAReS
-summary: Milk Antibody Characterization after SARS-CoV-2 vaccination in lactating mothers`.
+summary: Milk Antibody Characterization after SARS-CoV-2 vaccination in lactating mothers
 tags: ["Immunology"]
 date: "2022-08-18T00:00:00Z"
 authors:

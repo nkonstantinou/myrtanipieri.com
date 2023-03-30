@@ -40,4 +40,5 @@ In this study we will: 1. compare the levels and isotypes of Ig in human milk at
 **Relevant publication**
 
 *Pieri, M., Maniori, M.A., Shahabian, L., Kanaan, E., Paphiti-Demetriou, I., Pipis, S., Felekkis, K., Nicolaidou, V. and Papaneophytou, C., 2022. Survival of vaccine-induced human milk SARS-CoV-2 IgG, IgA and SIgA immunoglobulins across simulated human infant gastrointestinal digestion. Nutrients, 14(16), p.3368.*
+
 Link [here](https://www.mdpi.com/2072-6643/14/16/3368) 

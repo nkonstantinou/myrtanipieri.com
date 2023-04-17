@@ -18,7 +18,7 @@ organizations:
   url: "https://www.unic.ac.cy/pieri-myrtani/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on Gastrointestinal tract physiology and, in particular, the role of specific ingested micromolecules in tumorigenesis.
+bio: My research focuses on gastrointestinal tract physiology and, in particular, the role of specific ingested micromolecules in tumorigenesis.
 
 interests:
 - Nutrient transport
